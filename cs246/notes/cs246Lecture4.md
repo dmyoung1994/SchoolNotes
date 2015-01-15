@@ -4,10 +4,15 @@
         - egrep "^e....$" /usr/share/dict/words
     - Example 2: Print all words of even length from /usr/share/dict/words
         - egrep "^(..)+$" /usr/share/dict/words
-        - "^([a-zA-Z][a-zA-Z])*$"
+        - "^([a-zA-Z][a-zA-Z])\*$"
     - Example 3: Print all file names in the current directory where the name contains exactly 1 a
-        - ls | egrep "^[^a]*a[^a]*$"
+        - ls | egrep "^[^a]\*a[^a]\*$"
 # File Permissions
 - Access file permission with the -l option on ls
-- Permission are made up of 9 bits "_________"
+- Permission are made up of 9 bits
+    - |file permissions|pointers|user|group|
+    |-rwxr-xr--|1|dmyoung|staff|
+    - a file can only belong to one group
+    - a user can belong to multiple groups (cmd groups)
+    - permissions are 3 groups of 3 bits
 
