@@ -11,8 +11,11 @@
 # File Permissions
 - Access file permission with the -l option on ls
 - Permission are made up of 9 bits
-    |file permissions|pointers|user|group|
+
+    | file permissions | pointers | user | group |
+    | --- | --- | ---|
     |-rwxr-xr--|1|dmyoung|staff|
+
     - a file can only belong to one group
     - a user can belong to multiple groups (cmd groups)
     - permissions are 3 groups of 3 bits   
@@ -34,3 +37,7 @@
 |r|see the credentials, cat, text editor|see contents, ls, gloobing, tab completion|
 |w|modify the contents|add/rename files|
 |x|try to run the file as a program|navigate into the directory (cd)|
+
+- The owner of a file is the only one with the permission to change file permissions
+    - You can't give someone else the permission to change the original file permissions (ownership of a file can't be transfered)
+    -
