@@ -71,3 +71,38 @@
 - Physical processes of geology are centrally important because they shape Earth's terrain and form the foundations for living systems
 - Understading how life originated enhances our understanding of how present-day organisms interat with one another, and how they relate to their nonliving environment, and how environmental systems funtion
 
+# Chapter 3
+## St. Lawrence Belugas Case study
+- Decreaing pupulation die to gastrointenstinal cancer from pollutants (PAHs from fossil fules)
+- *Biomagnificaton* of contaminants through food chain
+    - Small creatures pass the contaminants up the food chain to Belugas
+- PAHs come from as far away as the Golden Horshoe in Ontario
+- PAHs are lipophuluc -> *bioaccumulation*
+- Belugas considered threatened now
+
+## Systems
+- *System*: a network of relationships among parts, elements, or components that interact with and inflence one another
+    - Exchange of energy, matter, or information
+    - REcieves input of energy, matter, or information -> proccess these inputs -> produce outputs
+    - hard to understand and predict
+- *Open System*: Systems that recieve inputs of both energy and matter and produce both of outputs
+- *Closed Systems*: Systems that recieve inputs and produce outputs of energy, but not matter
+- *Feedback loop*: A System's output serves as input to the same system
+    - *Negative Feedback Loop*: Output that resuslts from a system moving in one direction acts as input that moves the system in the other direction
+        - Acts as a stablizer to the system
+        - Ex. Brain regulating body temperature
+    - *Positive Feedback Loop*: instead of stablizing a system, it drives it further toward one extreme or another
+        - Snowball effect
+        - Ex. Ice melting reduces light reflected, warming up the temperature even more
+        - Ex. Permafrost melting releases methane which furher worsens the problem
+
+### System in a steady state
+- *Dynamic equilibrium*: System processes move in opposing directions at equivilent rates, balancing their effects
+- *Homeostatis* is a state of balance
+    - Homeostatis is a system that maintains contant or stable internal conditions
+        - *Resistance* refers to the strength of the system's tendency to remain constant
+            - Strength to protect
+        - *Resilience* is a measure of how readily the system will return to its original state once it has been desturbed
+- *Emergent properties*: system characteristics not evident in the components alone
+    - Have to study more than just the parts of a system (maybe how they interact)
+
