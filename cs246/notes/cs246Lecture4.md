@@ -27,7 +27,8 @@
         - last 3 bits are other bits (o)
             - the permission everyone else has
 ### Permission Table
-||Ordinary files|Directory
+| | Ordinary files | Directory |
+| --- | --- | --- |
 |r|see the credentials, cat, text editor|see contents, ls, gloobing, tab completion|
 |w|modify the contents|add/rename files|
 |x|try to run the file as a program|navigate into the directory (cd)|
