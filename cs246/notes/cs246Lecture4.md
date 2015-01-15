@@ -7,6 +7,7 @@
         - "^([a-zA-Z][a-zA-Z])\*$"
     - Example 3: Print all file names in the current directory where the name contains exactly 1 a
         - ls | egrep "^[^a]\*a[^a]\*$"
+
 # File Permissions
 - Access file permission with the -l option on ls
 - Permission are made up of 9 bits
@@ -26,6 +27,7 @@
             - the permission that the people of the group have
         - last 3 bits are other bits (o)
             - the permission everyone else has
+
 ### Permission Table
 | | Ordinary files | Directory |
 | --- | --- | --- |
