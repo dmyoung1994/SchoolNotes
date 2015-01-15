@@ -8,9 +8,9 @@
     - Example 3: Print all file names in the current directory where the name contains exactly 1 a
         - ls | egrep "^[^a]\*a[^a]\*$"
 
-# File Permissions
+## File Permissions
 - Access file permission with the -l option on ls
-- Permission are made up of 9 bits
+- Permissions are made up of 9 bits
 
     | file permissions | pointers | user | group |
     | --- | --- | ---| --- |
@@ -40,4 +40,27 @@
 
 - The owner of a file is the only one with the permission to change file permissions
     - You can't give someone else the permission to change the original file permissions (ownership of a file can't be transfered)
-    -
+- If you are the owner of a file, you can use the `chmod [mode] [filename]` command
+    - Mode:
+        - Ownership Class
+            - "u" for user
+            - "g" for group
+            - "o" for other
+            - "a" for all
+        - Operator
+            - "+" add
+            - "-" revoke
+            - "=" set exactly
+        - Permissions
+            - "r" for read
+            - "w" for write
+            - "x" for execute
+        - Can also user numbers
+            - binary representation of the numbers is paired with the bits of the permissions
+        - Ex:
+        1. Give other read permission
+            - chmod o+r
+        2. Revoke execute from group
+            - chmod g-x
+        3. Give everyone just read and write access
+            - chmod a=rw
