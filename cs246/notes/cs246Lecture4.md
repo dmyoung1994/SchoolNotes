@@ -13,8 +13,8 @@
 - Permission are made up of 9 bits
 
     | file permissions | pointers | user | group |
-    | --- | --- | ---|
-    |-rwxr-xr--|1|dmyoung|staff|
+    | --- | --- | ---| --- |
+    | -rwxr-xr-- | 1 | dmyoung | staff |
 
     - a file can only belong to one group
     - a user can belong to multiple groups (cmd groups)
