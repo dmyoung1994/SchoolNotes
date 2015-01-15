@@ -58,9 +58,30 @@
         - Can also user numbers
             - binary representation of the numbers is paired with the bits of the permissions
         - Ex:
-        1. Give other read permission
-            - chmod o+r
-        2. Revoke execute from group
-            - chmod g-x
-        3. Give everyone just read and write access
-            - chmod a=rw
+            1. Give other read permission
+                - chmod o+r
+            2. Revoke execute from group
+                - chmod g-x
+            3. Give everyone just read and write access
+                - chmod a=rw
+
+## Shell Variables
+- We can do things like "x=1"
+    - no spaces between decliration of variable and assigning it
+- Values of variables are ALWAYS strings
+- To retrieve a value, use the $
+    - Ex. "echo $x" will print x
+- Variables on the left side of "=" dont use $, but add "$" on the right side
+- $PATH variable containing paths to directories
+    - The shell looks at these paths to find a program
+
+## Scripts
+- Scripts are files that contain a sequence of linux commands, executed as a program
+- Example script named "basic"
+
+```
+\#!/bin/bash  // shebang line, tells shell this is a bash script
+date
+whoami
+pwd
+```
