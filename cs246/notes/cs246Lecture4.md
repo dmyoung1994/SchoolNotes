@@ -78,10 +78,17 @@
 ## Scripts
 - Scripts are files that contain a sequence of linux commands, executed as a program
 - Example script named "basic"
-
 ```
+// basic
+
 \#!/bin/bash  // shebang line, tells shell this is a bash script
 date
 whoami
 pwd
 ```
+- To execute this script this file, type
+    1. give full path `./basic` (prefered)
+    2. modify $PATH
+- When you try running this program, there are no execute permission on this text file by default
+    - to change the permissions for yourself, use `chmod u+x basic`
+
