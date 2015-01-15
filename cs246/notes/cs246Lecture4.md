@@ -10,9 +10,24 @@
 # File Permissions
 - Access file permission with the -l option on ls
 - Permission are made up of 9 bits
-    - |file permissions|pointers|user|group|
+    |file permissions|pointers|user|group|
     |-rwxr-xr--|1|dmyoung|staff|
     - a file can only belong to one group
     - a user can belong to multiple groups (cmd groups)
-    - permissions are 3 groups of 3 bits
-
+    - permissions are 3 groups of 3 bits   
+        - each group must have the form "rwx"
+            - "r" = read
+            - "w" = write
+            - "x" = execute
+            - "-" = not set
+        - first 3 bits are user bits (u)
+            - the permission of the user that created the file
+        - next 3 bits are group bits (g)
+            - the permission that the people of the group have
+        - last 3 bits are other bits (o)
+            - the permission everyone else has
+### Permission Table
+||Ordinary files|Directory
+|r|see the credentials, cat, text editor|see contents, ls, gloobing, tab completion|
+|w|modify the contents|add/rename files|
+|x|try to run the file as a program|navigate into the directory (cd)|
