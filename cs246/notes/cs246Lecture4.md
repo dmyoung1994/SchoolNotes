@@ -92,3 +92,28 @@ pwd
 - When you try running this program, there are no execute permission on this text file by default
     - to change the permissions for yourself, use `chmod u+x basic`
 
+### Command Line arguments to a script
+- Arguments can be accessed using the variable names $1, $2, ...
+    - $# gives you the number of arguments
+- Usage: ./isItAWord hello
+```
+# isItAWord
+#!/bin/bash
+egrep "$1$" /usr/share/dict/words
+```
+
+- Every process returns a status code:
+    - 0 for succes
+    - non-0 for failure
+    - $? is how to retrieve the status code
+```
+# goodPassword
+#!/bin/bash
+# egrep returns 0 if word is found atleast once, otherwise non-zero
+egrep "$1$" /usr/shoare/dict/words > /dev/null # /dev/null is a black hole to dump data
+if [ $? -eq 0 ]; then
+    echo Not a good password
+else 
+    echo Perhaps a good password
+fi
+```
