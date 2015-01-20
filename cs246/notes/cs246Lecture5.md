@@ -33,19 +33,19 @@
 - All of the different forms of comparisons are availible in the linux commands handout
 
 ## Loops
-- eg Print the numbers from 1 to $1 with a while loop
-```
-# While loop
+- While loops
+    - eg Print the numbers from 1 to $1 with a while loop
+    ```
+    # While loop
+    #!/bin/bash
+    x=1
+    while [ $x -le $1 ]; do
+        echo $x
+        x=$((x+1))
+    ```
+    - Moral of the story, encase arithmetic expressions with $(()). Otherwise, does string contatenation
 
-#!/bin/bash
-x=1
-while [ $x -le $1 ]; do
-    echo $x
-    x=$((x+1))
-```
-- Moral of the story, encase arithmetic expressions with $(()). Otherwise, does string contatenation
-
-- For loop
+- For loops
     - eg rename all cpp files to cc
     - to rename files, use `mv [source] [destination]`
     ```
@@ -68,5 +68,30 @@ while [ $x -le $1 ]; do
     ```
     - eg Payday is the last fraday of a month. What date is this this months payday?
     ```
-
+    cal | awk '{print $6 }' | egrep "[0-9]" | tail -1
     ```
+
+## Assignment info
+- A2 - A4:
+    - Due date 1 will have no programming
+        - Writing test suites
+        - Black box tests
+            - Positive/Negative
+            - Boundary cases
+            - Corner cases
+        - Test case specs are given in a1q5
+        - Marmoset public:
+            - checks if the outputs are exactly the same
+        - Marmoset release:
+            - how good is the coverage?
+            - check edge cases
+            - release tokens regenerate every 24h
+        - Marmoset secret:
+            - random tests that you only see if they passed after the due date
+    - Due date 2 has the programming
+        - testing does *not* prove correctness
+        - testing proves incorrect
+        - White Box Testing
+            - write tests the execute all functions
+            - cover all code paths
+        - Regression Testing
