@@ -12,4 +12,7 @@
         echo "Usage: $0 [password]"
         exit 1
     fi
+    egrep ...
+
     ```
+
