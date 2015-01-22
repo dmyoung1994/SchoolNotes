@@ -82,15 +82,12 @@
         - `if (cin)` is true if `!cin.fail()` is true
 - We can now imporve our readIntes.cc code
     ```
-     // 2-io/readInts3.cc
+     // 2-io/readInts4.cc
     #include <iostream>
     using namespace std;
     int main() {
         int x;
-        while(true) {
-             if (!cin >> x) {
-                 break;
-             }
+        while(cin >> x) {
              cout << x << endl;
         }
     }
