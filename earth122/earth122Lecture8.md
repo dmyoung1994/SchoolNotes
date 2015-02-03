@@ -1,0 +1,146 @@
+# Earth 122 Lecture 8 February 3rd 2015 Chapter 4 cont
+## Evolution
+- I missed last class so the start of Chapter 4 notes are missing
+- *Phylogenetic Trees* are diagrams that scientists use to trace when cetrain traits evolved
+    - It shows relationships between species
+- Origin of life is about 4 billion years ago
+- Evidence of animal life only comes about 750 million years ago
+- The species that come about through evolution dont last forever
+    - Diversity of species over time has increased, but the species alive today are only a fraction of species that have been on earth
+- *Extinction*: the dissapearence of a species from earth
+    - A natural process
+    - Human impact can profoundly affect the rate at which it happens
+    - Is irreversible, once a species is lost it is lost forever
+    - Extinction broungth on by human impact may well be the biggest environmental problem we face
+- *Background extinction rate*: extinction ussually occusts one species at a time
+- *Mass extintion events*: events that killed off massive numbers of species at once
+    - There have been 5 of these events in Earths history
+    - 50-95% of all species went extinct at one time
+    - Most known event happened 65 million years ago and ended dinosaurs
+        - Particles block sunlight -> plants die -> autotrophs cant survive -> meat eaters cant survive -> EVERYONE DIES
+    - Humans are causing the 6th event due to:
+        - Resource depletion
+        - Population growth
+        - Development
+        - Introduction of invasive species
+- *Endemic Species*: a species that only exists in a certain, specilized area
+    - These species are seceptible to extinction and have small popilations
+- Species ranges can be severely restricted
+    - Vancouver Island Marmot
+        - Logging activities are endangering these cute little guys
+
+## Ecology
+- *Biosphere*: the total living things on Earth and the areas they inhabit
+- *Ecosystem*: communities and the nonliving material they interact with
+- *Community*: interating species that live in the same area
+- *Population ecology*: investigates qunatitative dynamics of how individuals within a species interact
+- *Community Ecology*: focuses on interations among species
+- *Ecosystem ecology*: studies living and nonliving components of a system to reveal patterns
+    - ex Nutrient and energy flows
+- *Habitat*: the environment in which an organism lives
+    - included living and nonliving elements
+    - Scale dependent: the size of the organisms habitat is relative to its size
+- *Habitat use*: each organism thrives in certain habitats, but not in others
+    - Humback whales have traveled over long distances
+        - Reproduce in Hawaiin islands, then head back into harsher envionments to live
+- *Habitat selection*: the process by which organisms actively select habitats in which we live
+    - Availibility and quality of habitat are crutial to an organism's well being
+    - Human development conflicts with this process
+        - Mid-west united states was a huge prarie, turned intto rich human farmland
+- *Niche*: an organism's use of resources and its functional role in a community
+    - Habitat use, food selection, role in energy and nutrient flow
+    - Optimal functional role in an organisms communitity
+- *Specialists*: species with narrow niches and very specific requirements
+    - Extremely good at what they do, but vulnurable to change
+    - Ex. Koala bear, need eucaliptis trees, and eating them is all it really does
+- *Generalists*: species with broad niches that can use a wide array of habitats and resources
+    - Able to live in many different places
+    - Ex. Racoons
+- *Population*: individual of the same species inhabiting a particular area
+    - Species may consist of multiple populations that are geographically isolated from one another
+- Populations show characterists that help scientists pretice their future dynamics
+    - *Population Size*: the number of individual organisms present at a given time
+        - Numbers can increase, decrease, cucle, or remain the same
+        - Canadas population is increasing mainly due to immegration
+    - *Population Density*: the number of individuals within a populatuon per unit area
+        - Higer densities make it easier to find mates, but increase competition, and vulnerability to predation and disease transmition
+        - Lower densities make it harder to find mates, but individuals enjoy plentiful resources and space
+    - *Population distribution (dispersion)*: spatial arrangement of organisms within an area
+        - Random: haphazardly located individuals with no patterns
+            - Ex. forrests
+        - Uniform: individuals that are evenly spaced due to territoriality
+            - Ex. Seaguls or birds
+        - Clumped: arranged according to availiblity of resources
+            - Most common type in nature
+            - Due to the behaviour (sardines)
+                - They seem bigger as a group, rahter than an individual
+            - Concentrated by resources
+            - Some habitats may be better than others
+    - *Sex Ratio*: proportion of males to females
+        - In monogamous species, a 50/50 sex ratio maximizes population growth
+        - Unbalanced ratio leaves many individuals of one sex without mates
+        - Ex. In China, more males than females and may have altered the sex ratio
+    - *Age Structure*: the relative numbers of organisms of each age within a population
+        - Age structure diagrams (pyramids) show the structure of populations
+    - *Crude birth/death rates*: number of births or deaths per 1000 individuals for a given time period
+    - *Survivorship curves*: to show likelihod of death varies with age
+        - Type 1: more deaths at older ages
+        - Type 2: equal number of deaths at all ages
+        - Type 3: more deaths at young ages
+        - [Example curve](http://media-2.web.britannica.com/eb-media/42/6542-004-BE57D88E.jpg)
+- Population growth, stability or devline is determined by 4 factors
+    1. Natality: births within the population
+    2. Mortality: deaths within the population
+    3. Immigration: arrival of individuals from outside the population
+    4. Emigration: departure of individuals from a population
+- Growth Rate = (crude birthrate + immigration) - (crude death rate + emigration)
+- Steady growth rates cause *exponential* population growth
+    - something increases by a fixed percent
+    - graphed as a J-shaped curve
+    - Cannot be sustained indefinitely
+- *Limiting Factors*: physical, chemical and biological characteristics that restrain population growth
+    - water
+    - space
+    - food
+    - predators
+    - disease
+- *Environmental resistance*: all limiting facotrs taken together
+- *Logistic growth curve*: S-shaped curve used to model population growth
+    - exponention growth at early time
+    - stabalized population size at late time due to limiting factors
+- Humans have raised their carrying capacity by decreasing the carrying capacity for other species
+- Perfect logistic curves are rarely found in nature
+    - Except in pietry dishes where everything is monitored
+    - Limiting facotrs effect the shape of the curve
+- *Biotic potential*: the ability (maximum capacity) of an organism to produce offspring
+    - Fish vs Whales
+- *K-slected species*: animals with long gestation periods and have few offspring
+    - Have a low biotic potential
+    - Stabalize at or near carrying capacity
+    - Good competitors
+- *R-selected species*: animals which reporduce quickly
+    - Have high biotic potential
+    - Little parental care
+- Study table 4.4 on slide 48 to know characteristics between the two types of species
+- As population in one species declines, other species may appear
+
+## Chapter 5: Species Interations and Community Ecology
+- Zebra Muscle is a prime example of an evasive species
+    - Within 2 years, these guys invaded all 5 Great Lakes
+    - Grew exponentially since they have no natural predators, competitors or parasites
+    - Diagram of their effects on slide 4
+- *Competition*: relationship where multiple organisms seek the same limited resources
+    - Like food, water, space, shelter, mates, sunlinght
+- *Intraspecific Competition*: among members of the smae species
+    - High population density = increased competition
+- *Interspecific Competition*: among member of two or more species
+    - Ean lead to either competitive exclusion or to species coexistance
+- *Resource Partitioning*: species divide shared resources by specalizing in different ways
+    - Avoids competition
+    - Ex. One species is active at night, another in the day time
+    - Ex. One species eats small seeds, another eats large seeds
+- Resource partitioning can lead to **Character Displacement**: competing species evolve physical characteristics that reflect their reliance on the portion of the resource they use
+- Interaction between species:
+    - **Predation**
+    - **parasitism**
+    - **Herbivory**
