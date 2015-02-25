@@ -54,3 +54,10 @@
     - To link
         - `g++ obj1 obj2`
     - Linker ensures that all requesets are fulfilled
+
+## Global Variables
+- Makes sense to create a header file for globals
+- Problem with this is that every time you redefine a global this way, they aren't redefined globally
+    - Linker wont link two definitions of a global
+- Want to define globals in .cc files, but we NEVER include a .cc file
+    - So in the header file, we add `extern` to the type of the global, and now it is just a declaration, not a definiton
