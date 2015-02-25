@@ -106,7 +106,7 @@
 - Canals accelerated the flow of freshwater to the ocean
 
 ## Earths Biomes
-- **Bione**: major regional complex of similar communities, recognized by
+- **Biome**: major regional complex of similar communities, recognized by
     - plant type
     - vegitation structure
 1. Tundra
@@ -115,6 +115,7 @@
         - Nearly as dry as a desert
     - Extreamly cold winters
     - Permafrost
+        - 500m deep
     - Few Animals
     - Low vegitation with few trees
 2. Boreal Forst
@@ -136,3 +137,7 @@
     - Also called steppes or prairies
     - Much was converted for agriculture
     - Bison, Prairie dogs, antilope, ground-nesting birds
+5. Temperate Rainforests
+    - Variations in temperature and percipitation
+6. Tropical Rainforests
+    - Constant temperatures and percipitation
