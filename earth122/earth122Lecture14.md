@@ -10,6 +10,7 @@
 - Stabalize deserted soil by planting a lot of trees to protect the lands from the wind
     - Too many trees will cause not enought water to be availible to the surface water features
 - Soil degredation: problems and solutions
+
 Problems | Solutions
 --- | ---
 Erosion | soil conservation
