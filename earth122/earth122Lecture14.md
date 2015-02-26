@@ -87,4 +87,7 @@ Pollutuin |
 - Persistant in the environment and dont easily break down
 - Pests evolved to resists pesticides over time
 
+## GMO
+- Soybeans are the most produced by volume GMO type
+- USA produces the most GMO crops
 
