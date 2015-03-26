@@ -1,0 +1,34 @@
+# Earth122 Lecture 22
+- Concrete and backtops causes water to flow faster
+- Water gets diverted away from where it naturally wants to go
+    - Once the water gets to its destination, just a trickle is left1
+- Lakes drying up dramatically alter ecosystems that were there like fish
+    - Due to our need for water
+- Excessive use of water in many parts of the wrold like central canada, central US, china, india
+- Effects our food prices
+- Wetlands have been treated as "useless swamps"
+    - Important because it provides habitat for migratory birds
+- Sinkholes caused by lack of groundwater
+- Taking groundwater from sea side places causes salt water intrution
+- some cities are slowly sinking 
+- The San Joaquin Valley has subsided 10 meters in 50 years
+    - So much water from the ground has been pumped that the land sank over time
+- Aquitards are made by clay 
+    - Compresses greatly when the water is pumped out 
+- Water level was higher than the ground level back in the early 1900's
+    - Water level has decreases greatly in the Industrial zone especially
+    - Stopping ground water pumping allows water level to recover
+- Injection wells allow water to be added to aquifers
+    - After Aquitards have been dried, its hard to resore water to them
+- Imagine what happens to infrastructure when cities start to sink
+- Sea levels arent changing, so when land subsides bad stuff happens
+- Solutions to this problem are:
+    - Building gates to alter water levels, practially just a big ass lock to alter water levels
+        - Alters water circulation and depletes oxygyn in the water
+    - Lowering demand for water
+    - Increasing supply
+- Desalinizing water removes salt from water, increasing the qunatity of water availible
+    - Expensive
+- How to save water? Dont be wasterful
+- Water can be contaminated and harm human health
+- DDT has still been found in aquifers 40 years after it has been banned
